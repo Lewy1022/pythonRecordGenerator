@@ -1,0 +1,71 @@
+Szczecin
+Koszalin
+Gorzow Wielkopolski
+Koszalin
+Gdansk
+Bydgoszcz
+Poznan
+Gdansk
+Olsztyn
+Bydgoszcz
+Olsztyn
+Bialystok
+Warszawa
+Torun
+Bialystok
+Lublin
+Warszawa
+Lublin
+Warszawa
+Radom
+Rzeszow
+Rzeszow
+Radom
+Tarnow
+Tarnow
+Kielce
+Krakow
+Nowy Sacz
+Tarnow
+Krakow
+Kielce
+Katowice
+Bielsko-Biala
+Bielsko-Biala
+Katowice
+Katowice
+Piotrkow Trybunalski
+Kalisz
+Wroclaw
+Wroclaw
+Kalisz
+Zielona Gora
+Poznan
+Zielona Gora
+Poznan
+Gorzow Wielkopolski
+Gorzow Wielkopolski
+Poznan
+Poznan
+Bydgoszcz
+Lodz
+Kalisz
+Kalisz
+Piotrkow Trybunalski
+Piotrkow Trybunalski
+Lodz
+Warszawa
+Kielce
+Radom
+Kielce
+Radom
+Radom
+Warszawa
+Warszawa
+Torun
+Lodz
+Lodz
+Torun
+Torun
+Bydgoszcz
+Bydgoszcz
