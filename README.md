@@ -26,19 +26,19 @@ działa przyrostowo (kolejne uruchomienie dodaje kolejne wiersze). Skrypt jest p
 
 
 ## Setup
-1.Należy otworzyć wiersz poleceń i należy zmienić ściężkę do folderu wkórym znajduje się generator.
+1. Należy otworzyć wiersz poleceń i należy zmienić ściężkę do folderu wkórym znajduje się generator.
 2. Następnie należy wywołąć komendę w wierszu poleceń:python generator.py <argument1> <argument2> gdzie:
-  *<argument1> - jest to nazwa tabeli do, której chemy generowaćinserty. Dostępne wartości:
-  -klient
-  -trener
-  -kontakty
-  -cennik
-  -cwiczenia
-  -plan_treningu
-  -Plan_cwiczen
-  -Rejestr_wejsc_wyjsc
-  -Adresy
-  *<argument2> - jest to ilość insertów, które chcemy wygenerować
+   * <argument1> - jest to nazwa tabeli do, której chemy generowaćinserty. Dostępne wartości:
+    - klient
+    - trener
+    - kontakty
+    - cennik
+    - cwiczenia
+    - plan_treningu
+    - Plan_cwiczen
+    - Rejestr_wejsc_wyjsc
+    - Adresy
+   * <argument2> - jest to ilość insertów, które chcemy wygenerować
 
 ## Code Examples
 Show examples of usage:
