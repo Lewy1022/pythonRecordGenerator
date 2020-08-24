@@ -12,7 +12,7 @@
 Skrypt jest generatorem danych mającym symulować działanie aplikacji.
 Zadaniem generatora jest wygenerowanie w dowolnym momencie dużej liczby wierszy. Generator
 działa przyrostowo (kolejne uruchomienie dodaje kolejne wiersze). Skrypt jest przygotowany jago zadanie na studia z przedmiotu aplikacje bazodonowe.
-![Baza danych](./img/sc1.png)
+![Baza danych](./img/sc1.pdf)
 
 
 
