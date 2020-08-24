@@ -1,5 +1,5 @@
-# Project Name
-> Here goes your awesome project description!
+# RecordGenerator
+> Jest to prosty skrypt generujacy dane do bazy danych
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,18 +12,33 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+Skrypt jest generatorem danych mającym symulować działanie aplikacji.
+Zadaniem generatora jest wygenerowanie w dowolnym momencie dużej liczby wierszy. Generator
+działa przyrostowo (kolejne uruchomienie dodaje kolejne wiersze). Skrypt jest przygotowany jago zadanie na studia z przedmiotu aplikacje bazodonowe.
+
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Python 3.8
+* cx_oracle
+
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+*.Należy otworzyć wiersz poleceń i należy zmienić ściężkę do folderu wkórym znajduje się generator.
+* Następnie należy wywołąć komendę w wierszu poleceń:python generator.py <argument1> <argument2> gdzie:
+  **<argument1> - jest to nazwa tabeli do, której chemy generowaćinserty. Dostępne wartości:
+  ***klient
+  ***trener
+  ***kontakty
+  ***cennik
+  ***cwiczenia
+  ***plan_treningu
+  ***Plan_cwiczen
+  ***Rejestr_wejsc_wyjsc
+  **Adresy
+  **<argument2> - jest to ilość insertów, które chcemy wygenerować
 
 ## Code Examples
 Show examples of usage:
